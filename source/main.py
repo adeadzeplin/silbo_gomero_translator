@@ -169,13 +169,12 @@ def synthesize_data(data):
 
 # ¯	= high vowel (e,i)
 # _ = low vowel (a,o,u)
-
 # Y = high-continuous consonant (n,ñ,l,ll,y,rr,r,d)
 # T = high-interrupted consonant (t,ch,s)
-
 # G = low-continuous consonant (m,b,f,g,h)
 # K = low-interrupted consonant (p,k)
-
+#BUENOS DIAS
+#G_¯Y_T Y¯_T
 
 if __name__ == '__main__':
     # main()
